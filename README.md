@@ -1,7 +1,39 @@
-# Isabel (Izzy) Gerrard
+<p align="center">
+  <img src="wave.png" alt="Izzy Telescope Hi" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</p>
 
-## Email isabel@gerrards.org for CV 
+<h1 align="center">Isabel (Izzy) Gerrard👋</h1>
 
-### [Google Scholar](https://scholar.google.com/citations?user=93yexpsAAAAJ&hl=en)
-### [LinkedIn](https://www.linkedin.com/in/isabel-gerrard/)
+<p align="center">
+  Neuroscience Research Engineer · Scientific Software Developer
+</p>
+
+---
+
+I'm a research engineer working at the intersection of radio astronomy and neuroscience, with a background in software, experimental design, and computational analysis. 
+
+---
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- [Google Scholar](https://scholar.google.com/citations?user=your-id-here)  
+- [Related Profile](https://github.com/gerrards)
+
+---
+
+## Contact
+
+Got a question, project, or collaboration in mind?
+
+Email **isabel@gerrards.org** or PR [GitHub Issue](https://github.com/isabelgerrards/isabelgerrards/issues)
+
+---
+
+<!-- Footer quote (optional) -->
+<p align="center">
+  <em>Tools for thought, signals from fields.</em>
+</p>
+
+
 
