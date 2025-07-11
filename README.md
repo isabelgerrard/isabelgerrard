@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="wave.png" alt="Izzy Telescope Hi" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+  <img src="images/wave.JPG" alt="Izzy Telescope Hi" width="600" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </p>
 
-<h1 align="center">Isabel (Izzy) Gerrard👋</h1>
+<h1 align="center">Isabel (Izzy) Gerrard</h1>
 
 <p align="center">
   Neuroscience Research Engineer · Scientific Software Developer
@@ -24,9 +24,7 @@ I'm a research engineer working at the intersection of radio astronomy and neuro
 
 ## Contact
 
-Got a question, project, or collaboration in mind?
-
-Email **isabel@gerrards.org** or PR [GitHub Issue](https://github.com/isabelgerrards/isabelgerrards/issues)
+Email **isabel@gerrards.org** or open a [Pull Request](https://github.com/isabelgerrards/isabelgerrards/issues)
 
 ---
 
