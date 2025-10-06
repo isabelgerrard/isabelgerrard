@@ -5,7 +5,7 @@
 <h1 align="center">Isabel (Izzy) Gerrard</h1>
 
 <p align="center">
-  Neuroscience Research Engineer · Scientific Software Developer
+  Neuroscience Research Engineer · Scientific Software Developer · Technosignature Research
 </p>
 
 ---
