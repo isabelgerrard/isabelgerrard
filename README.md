@@ -24,7 +24,7 @@ I'm a research engineer working at the intersection of radio astronomy and neuro
 
 ## Contact
 
-Email **isabel@gerrards.org** or open a [Pull Request](https://github.com/isabelgerrards/isabelgerrards/issues)
+Email **isabel.gerrard@yahoo.com** or open a [Pull Request](https://github.com/isabelgerrards/isabelgerrards/issues)
 
 ---
 
