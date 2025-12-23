@@ -28,10 +28,3 @@ Email **isabel.gerrard@yahoo.com** or open a [Pull Request](https://github.com/i
 
 ---
 
-<!-- Footer quote (optional) -->
-<p align="center">
-  <em>Tools for thought, signals from fields.</em>
-</p>
-
-
-
