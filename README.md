@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="images/wave.JPG" alt="Izzy Telescope Hi" width="600" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="images/wave.JPG" alt="Izzy Telescope Hi" width="600" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" /> -->
+<!-- </p> -->
 
 <h1 align="center">Isabel (Izzy) Gerrard</h1>
 
